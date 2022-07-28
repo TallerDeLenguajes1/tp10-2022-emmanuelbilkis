@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.AssemblyInfo.cs
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\bin\Debug\net6.0\tp10-2022-emmanuelbilkis.exe
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\bin\Debug\net6.0\tp10-2022-emmanuelbilkis.deps.json
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\bin\Debug\net6.0\tp10-2022-emmanuelbilkis.runtimeconfig.json
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\bin\Debug\net6.0\tp10-2022-emmanuelbilkis.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\bin\Debug\net6.0\tp10-2022-emmanuelbilkis.pdb
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\refint\tp10-2022-emmanuelbilkis.dll
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.pdb
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\tp10-2022-emmanuelbilkis.genruntimeconfig.cache
+C:\Users\user\Desktop\tallerteoriastp\Taller\tp10\tp10-2022-emmanuelbilkis\obj\Debug\net6.0\ref\tp10-2022-emmanuelbilkis.dll
